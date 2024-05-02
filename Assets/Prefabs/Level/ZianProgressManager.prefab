@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4870523568279767871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4871735345230190593}
+  - component: {fileID: 4756679789308580359}
+  m_Layer: 0
+  m_Name: ZianProgressManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4871735345230190593
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4870523568279767871}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -78.91384, y: 2.3617, z: 1.6593261}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4756679789308580359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4870523568279767871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf05f7dd8e4220748a9c4f4f6a2bc9a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Scenes:
+  - SceneName: LEVEL 1
+    LevelComplete: 0
+    LevelUnlocked: 1
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: Boss 1
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 0
+    CollectedStars: 
+  - SceneName: LEVEL 2
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: Boss 2
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 0
+    CollectedStars: 
+  - SceneName: LEVEL 3-1
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: LEVEL 3-2
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: LEVEL 3-3
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: Boss 3
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 0
+    CollectedStars: 
+  - SceneName: LEVEL 4
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: Boss 4
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 0
+    CollectedStars: 
+  - SceneName: LEVEL 5-1
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: LEVEL 5-2
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: Boss 5
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 0
+    CollectedStars: 
+  - SceneName: LEVEL 6-1
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: LEVEL 6-2
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: Boss 6
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 0
+    CollectedStars: 
+  - SceneName: LEVEL 7-1
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: LEVEL 7-2
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: Boss 7
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 0
+    CollectedStars: 
+  - SceneName: LEVEL 8
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 3
+    CollectedStars: 000000
+  - SceneName: Boss 8
+    LevelComplete: 0
+    LevelUnlocked: 0
+    MaxStars: 0
+    CollectedStars: 
+  CreateSaveGameBtn: 0

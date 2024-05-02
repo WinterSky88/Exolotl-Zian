@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: f7968d1e07f93774b824a8c7b87fa17d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2073347533269189520
+    second: drum leak_0
+  - first:
+      213: -4845619943661224393
+    second: drum leak_1
+  - first:
+      213: -7088773303519552642
+    second: drum leak_2
+  - first:
+      213: 7892388116112757004
+    second: drum leak_3
+  - first:
+      213: 4080932996183724041
+    second: drum leak_4
+  - first:
+      213: 129813273516190659
+    second: drum leak_5
+  - first:
+      213: -7564264936468829053
+    second: drum leak_6
+  - first:
+      213: 4801400464378960054
+    second: drum leak_7
+  - first:
+      213: -7833624706972641359
+    second: drum leak_8
+  - first:
+      213: 6258660663989334882
+    second: drum leak_9
+  - first:
+      213: -8485433259409942362
+    second: drum leak_10
+  - first:
+      213: -1477469716841472817
+    second: drum leak_11
+  - first:
+      213: 6235473953172491793
+    second: drum leak_12
+  - first:
+      213: -2904169461605521010
+    second: drum leak_13
+  - first:
+      213: -7425799454552733395
+    second: drum leak_14
+  - first:
+      213: -2215576641794416266
+    second: drum leak_15
+  - first:
+      213: -717790145877504083
+    second: drum leak_16
+  - first:
+      213: -1817856651520440395
+    second: drum leak_17
+  - first:
+      213: -2532175466209619897
+    second: drum leak_18
+  - first:
+      213: 1569790937332234563
+    second: drum leak_19
+  - first:
+      213: -8399757302848849881
+    second: drum leak_20
+  - first:
+      213: -6422295601488620585
+    second: drum leak_21
+  - first:
+      213: -1464955692930312256
+    second: drum leak_22
+  - first:
+      213: -7928069996730043575
+    second: drum leak_23
+  - first:
+      213: -7665543026119487503
+    second: drum leak_24
+  - first:
+      213: -4836843322015786081
+    second: drum leak_25
+  - first:
+      213: -4247852596805209879
+    second: drum leak_26
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drum leak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cbe8f476df933e0800000000000000
+      internalID: -2073347533269189520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum leak_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e368d9556e0ccb0800000000000000
+      internalID: -4845619943661224393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum leak_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bd1760d3e9f9d90800000000000000
+      internalID: -7088773303519552642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

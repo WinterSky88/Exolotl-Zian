@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1997145806454793814
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -85.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -15.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207365, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942957975207367, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_Name
+      value: lampu coklat gantung Variant (2)terang
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942958070984622, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942958070984622, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.990566
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942958070984622, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.990566
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942958070984622, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.990566
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942958070984622, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 6.4300323
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942958070984623, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.0011185785
+      objectReference: {fileID: 0}
+    - target: {fileID: 134942958070984623, guid: dbfca30c2496df8499c86b987f7b1495,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.9999994
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dbfca30c2496df8499c86b987f7b1495, type: 3}

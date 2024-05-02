@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flowey_Anim
+  m_Controller: {fileID: 9100000, guid: cd318dee7fc634e4c9188f556a7a43a4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 08fb6220233f9524bb7650f94b407af1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c62655db779303645b70c9e2eed8fab3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0addec9e8eb3adf49a66b9baecd7dd18, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e227ec77ad3a8364aad0ba57c167dc67, type: 2}

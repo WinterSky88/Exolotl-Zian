@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4788395682856608838
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4921041096842775961, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -753959455961311420, guid: 042b37019901d664db6106f71c61654f,
+        type: 3}
+    - target: {fileID: 4921041096855484345, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_Name
+      value: apple
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041096861483609, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041096861483609, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: DisableColliderOnPick
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041096861483609, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: DisableRendererOnPick
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041096864826489, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041096864826489, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 6d0fadc8b96dea4489e25e7305df45f5, type: 2}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -93.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467665, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467668, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: m_Name
+      value: apple magnet
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467671, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: Offset.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467671, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: FollowAcceleration
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921041097675467671, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: FollowPositionSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5980574825382923461, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: Sfx
+      value: 
+      objectReference: {fileID: 8300000, guid: b0c8aaafe468e11428743d3c258ce4bb, type: 3}
+    - target: {fileID: 5980574825382923461, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: MaxVolume
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5980574825382923461, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: MinVolume
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5980574825382923461, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: PlayMethod
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7979520811246778239, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+        type: 3}
+      propertyPath: Active
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4c7e0da207bf63e4782eec03cdfba0a8, type: 3}
+--- !u!1 &448319608181871615 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4921041096855484345, guid: 4c7e0da207bf63e4782eec03cdfba0a8,
+    type: 3}
+  m_PrefabInstance: {fileID: 4788395682856608838}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4027236881495021280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 448319608181871615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd368d0163bf949cdba73858da50af99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PickFeedbacks: {fileID: 4676078922475849404, guid: 5e654741abb61a84c8f1ff3243b5012e,
+    type: 3}
+  DisableObjectOnPick: 1
+  DisableRendererOnPick: 0
+  DisableColliderOnPick: 0
+  DisableTargetObjectOnPick: 0
+  TargetObjectToDisable: {fileID: 0}
+  TargetObjectDisableDelay: 1
+  HealthToGive: 5

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GreybulbAnimator
+  m_Controller: {fileID: 9100000, guid: cd318dee7fc634e4c9188f556a7a43a4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0addec9e8eb3adf49a66b9baecd7dd18, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 534b1703a373b3f409bc7c00da46e594, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 08fb6220233f9524bb7650f94b407af1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ed3553fec8fa30b4281da18a34ce5214, type: 2}

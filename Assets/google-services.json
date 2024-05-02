@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89256351899",
+    "project_id": "exolotlzian",
+    "storage_bucket": "exolotlzian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89256351899:android:2524f0e240d59272284e3e",
+        "android_client_info": {
+          "package_name": "com.JellyLab.ExolotlZian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89256351899-2trgrilh03nj1lgk68oloj1g5paopv3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoauSbPsMiLvk7USORYzueNjNEkCtqxv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89256351899-2trgrilh03nj1lgk68oloj1g5paopv3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

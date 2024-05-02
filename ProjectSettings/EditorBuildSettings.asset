@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LogoJellyLab.unity
+    guid: 3745468d98d27fe40a6d8a9f07999064
+  - enabled: 1
+    path: Assets/Scenes/LogoZian.unity
+    guid: ac88e79c73464a14cacacae604c9ee27
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 888394d52616e5e42b3b54c3f2bbd3eb
+  - enabled: 1
+    path: Assets/Scenes/NewMainMenuTESS.unity
+    guid: a806c5af29657644f8cf3583b718bdcb
+  - enabled: 1
+    path: Assets/Scenes/Test/TesLevelSelection.unity
+    guid: 324e0057d41c3d84fbbd829a125a6fbb
+  - enabled: 1
+    path: Assets/Scenes/Test/Opening.unity
+    guid: c89208b926244e644bd8b308aca0b76f
+  - enabled: 1
+    path: Assets/Scenes/Test/Opening lvl 1.unity
+    guid: 9b00e525595472a4db5eab91ee5b0fa4
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 1.unity
+    guid: c64b9b360d53d1142bdcda6355a82472
+  - enabled: 1
+    path: Assets/Scenes/Test/CS Boss Lv 1.unity
+    guid: 7271bdebf736e7141bde45519b672d46
+  - enabled: 1
+    path: Assets/Scenes/Test/Boss 1.unity
+    guid: 4bb34d9ef8f6b1248896d21739e4c117
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi1.unity
+    guid: e37ce63c4a4cd074395eaecb2428d677
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi1 BARK UNLOCK.unity
+    guid: 7ce741c28240048469f9c18df9712a23
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 2.unity
+    guid: 8469ad7913c92da478aa9428b4f0b3d0
+  - enabled: 1
+    path: Assets/Scenes/Test/CS Boss Lv 2.unity
+    guid: aea44debf16fca54ea4489f3088d8db5
+  - enabled: 1
+    path: Assets/Scenes/Test/Boss 2.unity
+    guid: a2191c87991848e4bb181377ef3a2c97
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi2.unity
+    guid: e4611e8c7b46d45448bd1bfa71b6be66
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi1 FURY UNLOCK 1.unity
+    guid: af4008a23ef8a02439a986b8889f6030
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 3-1.unity
+    guid: 8a9633b73743ac046868538399d5e942
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 3-2.unity
+    guid: 1cd07866b663b2741a890ed340286e40
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 3-3.unity
+    guid: fd078d5c3a5dd3e4e8144c4c70639782
+  - enabled: 1
+    path: Assets/Scenes/Test/CS Boss Lv 3.unity
+    guid: 118688ac166255f44bd1aa4ce2ee1ab4
+  - enabled: 1
+    path: Assets/Scenes/Test/Boss 3.unity
+    guid: a5cdb7eda2d0a814595f21a4074424e3
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi3.unity
+    guid: 387373b13602b314b855cf47c33dce00
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 4.unity
+    guid: db4447d6f2f15d04d9c9b27b93fd26df
+  - enabled: 1
+    path: Assets/Scenes/Test/CS Boss Lv 4.unity
+    guid: 99bcf24d2365bdd4cae3153b13235192
+  - enabled: 1
+    path: Assets/Scenes/Test/Boss 4.unity
+    guid: f9fdce592e2782340a081257ee7d5e80
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi4.unity
+    guid: 2b99d6a034fcc5c469970343ce5fdf37
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi1 QUIN UNLOCK 2.unity
+    guid: fd8b276d46912344091bcb673086f777
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 5-1.unity
+    guid: 213304a63818f61458c8727fa47e0c80
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 5-2.unity
+    guid: a5151487c1bca76439351f75ec8b9f9f
+  - enabled: 1
+    path: Assets/Scenes/Test/CS Boss Lv 5.unity
+    guid: a8076dc7ad4bd1a40858939849969db7
+  - enabled: 1
+    path: Assets/Scenes/Test/Boss 5.unity
+    guid: 6f1f1eaeef2c1f74b91c4153ee2b202c
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi5.unity
+    guid: f6055db0b1605144ba0512cda8474384
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi1 HAZEL UNLOCK 3.unity
+    guid: 88b35f7e5c624ae48bbe589a44197b39
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 6-1.unity
+    guid: 186610974d5c4de4ca38a97bd8f27a6d
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 6-2.unity
+    guid: a60738e80b6e72047ad631d2ae543793
+  - enabled: 1
+    path: Assets/Scenes/Test/CS Boss Lv 6.unity
+    guid: f426b1ce88bed6c4b9b8e8ba1de77547
+  - enabled: 1
+    path: Assets/Scenes/Test/Boss 6.unity
+    guid: b1cf51c8f83b5eb4db433987b6f69753
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi6.unity
+    guid: 99d4073d091387d4ba44f9204f944dbb
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 7-1.unity
+    guid: 8b21d15efbe174c4889c1f5e032f1eb0
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 7-2.unity
+    guid: f70b8503faa66d04887ff652a56565e7
+  - enabled: 1
+    path: Assets/Scenes/Test/CS Boss Lv 7.unity
+    guid: 1019fc217815bfc4dbb109b8dbde0143
+  - enabled: 1
+    path: Assets/Scenes/Test/Boss 7.unity
+    guid: 065ff7af0cfe5f5499fe9774d3731914
+  - enabled: 1
+    path: Assets/Scenes/Test/Transisi7.unity
+    guid: 708b5196acaa19b4aac303949037151b
+  - enabled: 1
+    path: Assets/Scenes/Test/LEVEL 8.unity
+    guid: da0d4b2904b9bfe47bf100bc73b84cef
+  - enabled: 1
+    path: Assets/Scenes/Test/CS Boss Lv 8.unity
+    guid: dda8dbecb141056438582c75814c86b2
+  - enabled: 1
+    path: Assets/Scenes/Test/Boss 8.unity
+    guid: 7a7fe76942513a946852ae4263a9011e
+  - enabled: 1
+    path: Assets/Scenes/Test/TransisiEnd.unity
+    guid: 2cb5d849ae6bb7b4bb93f808a4923020
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b56cfcac7085538488dbe9c1aad7ed48
+  - enabled: 1
+    path: Assets/Scenes/Thank You For Playing.unity
+    guid: 06c922b5fe723d748b87077aadd98775
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d46eb46a10546d24b9773dfff5a708a7,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 69c36f613674f6c41b26aaf301505ec8, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 43f4288a2ad9f67479bc5171272a3134, type: 2}

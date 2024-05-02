@@ -1,0 +1,596 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zian
+  m_TargetType:
+    m_NativeTypeID: 91
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.size
+    value: 22
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[0].m_Name
+    value: Walking
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[0].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[0].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[0].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[0].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[0].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[1].m_Name
+    value: Jumping
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[1].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[1].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[1].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[1].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[1].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[2].m_Name
+    value: xSpeed
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[2].m_Type
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[2].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[2].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[2].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[2].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[3].m_Name
+    value: ySpeed
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[3].m_Type
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[3].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[3].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[3].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[3].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[4].m_Name
+    value: Grounded
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[4].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[4].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[4].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[4].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[4].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[5].m_Name
+    value: HitTheGround
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[5].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[5].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[5].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[5].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[5].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[6].m_Name
+    value: DoubleJumping
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[6].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[6].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[6].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[6].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[6].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[7].m_Name
+    value: Airborne
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[7].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[7].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[7].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[7].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[7].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[8].m_Name
+    value: Slash1Use
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[8].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[8].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[8].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[8].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[8].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[9].m_Name
+    value: Slash1Start
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[9].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[9].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[9].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[9].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[9].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[10].m_Name
+    value: Slash1Stop
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[10].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[10].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[10].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[10].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[10].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[11].m_Name
+    value: Slash2Start
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[11].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[11].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[11].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[11].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[11].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[12].m_Name
+    value: Slash2Use
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[12].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[12].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[12].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[12].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[12].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[13].m_Name
+    value: Slash3Start
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[13].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[13].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[13].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[13].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[13].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[14].m_Name
+    value: Slash3Pre
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[14].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[14].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[14].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[14].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[14].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[15].m_Name
+    value: Slash3Use
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[15].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[15].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[15].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[15].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[15].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[16].m_Name
+    value: AirSlashStart
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[16].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[16].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[16].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[16].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[16].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[17].m_Name
+    value: AirSlashUse
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[17].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[17].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[17].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[17].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[17].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[18].m_Name
+    value: ComboInProgress
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[18].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[18].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[18].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[18].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[18].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[19].m_Name
+    value: Crouching
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[19].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[19].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[19].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[19].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[19].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[20].m_Name
+    value: Swimming
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[20].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[20].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[20].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[20].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[20].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[21].m_Name
+    value: SmimmingIdle
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[21].m_Type
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[21].m_DefaultFloat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[21].m_DefaultInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[21].m_DefaultBool
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorParameters.Array.data[21].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_Name
+    value: Base Layer
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_StateMachine
+    value: 
+    objectReference: {fileID: -8322200886545268115, guid: d00dd61786b182e459b435ab96ac893b,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_Mask
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_Motions.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_Behaviours.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_BlendingMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_SyncedLayerIndex
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_DefaultWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_IKPass
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_SyncedLayerAffectsTiming
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatorLayers.Array.data[0].m_Controller
+    value: 
+    objectReference: {fileID: 9100000, guid: d00dd61786b182e459b435ab96ac893b, type: 2}
+  m_ExcludedProperties: []
