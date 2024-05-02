@@ -1,5 +1,5 @@
 # Exolotl-Zian
-This is my internship project game and get to Top 10 Grand Finalist Gameseed 2023 at Tangerang, Indonesia
+This is a retro-style platformer game where players must defeat enemies and bosses in each level to progress through the story
 
 
 Because it's confidential. I only put some samples of the code to prevent the game from being copied
